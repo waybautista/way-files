@@ -1,1 +1,3 @@
 # way-files
+
+Hi Way!
